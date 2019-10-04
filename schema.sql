@@ -7,4 +7,4 @@ CREATE TABLE movies (
   title VARCHAR(100)
 );
 
-INSERT INTO movies (title) VALUES("Mean Girls"), ("Hackers"), ("The Grey"), ("Ex-Machina")
+INSERT INTO movies (title) VALUES("Mean Girls"), ("Hackers"), ("The Grey"), ("Ex-Machina");
